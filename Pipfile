@@ -10,6 +10,7 @@ numpy = "*"
 matplotlib = "*"
 pandas = "*"
 jupyter = "*"
+apyori = "*"
 
 [requires]
 python_version = "3.7"
